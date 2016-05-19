@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 /* --------------------------------
-=======
-/* -------------------------------- 
->>>>>>> 0ac20354be6562986183665bce39f7b8a2950bc7
 
 Primary style
 
@@ -32,15 +28,9 @@ a {
   text-decoration: none;
 }
 
-<<<<<<< HEAD
 /* --------------------------------
 
 Main Components
-=======
-/* -------------------------------- 
-
-Main Components 
->>>>>>> 0ac20354be6562986183665bce39f7b8a2950bc7
 
 -------------------------------- */
 .cd-nav-trigger {
@@ -153,15 +143,9 @@ Main Components
   }
 }
 
-<<<<<<< HEAD
 /* --------------------------------
 
 xnavigation
-=======
-/* -------------------------------- 
-
-xnavigation 
->>>>>>> 0ac20354be6562986183665bce39f7b8a2950bc7
 
 -------------------------------- */
 .cd-nav-container {
@@ -481,15 +465,9 @@ xnavigation
     transform: rotate(0);
   }
 }
-<<<<<<< HEAD
 /* --------------------------------
 
 xshadow layer
-=======
-/* -------------------------------- 
-
-xshadow layer 
->>>>>>> 0ac20354be6562986183665bce39f7b8a2950bc7
 
 -------------------------------- */
 .cd-overlay {
@@ -517,15 +495,9 @@ xshadow layer
   transition: opacity 0.4s 0s, visibility 0s 0s;
 }
 
-<<<<<<< HEAD
 /* --------------------------------
 
 xcontent
-=======
-/* -------------------------------- 
-
-xcontent 
->>>>>>> 0ac20354be6562986183665bce39f7b8a2950bc7
 
 -------------------------------- */
 main {
@@ -575,10 +547,7 @@ main.scale-down {
   transition: transform 0.4s 0s;
   -webkit-overflow-scrolling: touch;
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> 0ac20354be6562986183665bce39f7b8a2950bc7
 .cd-section header {
   height: 100vh;
   background: #9e87ce;
