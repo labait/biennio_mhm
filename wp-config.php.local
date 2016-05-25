@@ -1,4 +1,8 @@
 <?php
+
+define('WP_HOME','http://localhost/laba/mhm/');
+define('WP_SITEURL','http://localhost/laba/mhm/');
+
 /**
  * The base configuration for WordPress
  *
