@@ -8196,7 +8196,7 @@ html, body {
   margin: 0;
   padding: 0; }
   html h1, html h2, html h3, html h4, html h5, html h6, html a, body h1, body h2, body h3, body h4, body h5, body h6, body a {
-    color: green; }
+    color: red; }
 
 nav .menu-main-container ul.cd-nav {
   margin: 0;
@@ -8204,12 +8204,12 @@ nav .menu-main-container ul.cd-nav {
   nav .menu-main-container ul.cd-nav li {
     list-style-type: none; }
     nav .menu-main-container ul.cd-nav li a {
-      color: green;
+      color: red;
       text-decoration: none;
       padding-top: calc(50% - 24px); }
     nav .menu-main-container ul.cd-nav li:hover a, nav .menu-main-container ul.cd-nav li.cd-selected a {
-      background-color: green;
-      color: #b3ffb3; }
+      background-color: red;
+      color: white; }
 
 .cd-section {
   background-color: #eee;
@@ -8224,3 +8224,5 @@ nav .menu-main-container ul.cd-nav {
 
 #menu-main li a {
   font-size: 2.5rem; }
+
+/*# sourceMappingURL=theme.css.map */
